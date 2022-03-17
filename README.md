@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Eliran Haziza
 
-You can use the [editor on GitHub](https://github.com/eliranhz/eliranhz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a PhD candidate in philosophy at the University of Toronto. I work in epistemology and philosophy of language. My research focuses on questions and inquiry. I'm also interested in the pragmatics of assertion and implicature.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can reach me at eliran.haziza@mail.utoronto.ca
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Assertion, Implicature, and Iterated Knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, forthcoming
 
-```markdown
-Syntax highlighted code block
+### In Progress <span style="font-weight:normal; font-size:16px">(email for drafts)</span>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eliranhz/eliranhz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* A paper on curiosity (under review)
+* A paper on the norms of inquiry (under review)
+* A paper on assertion (under review)
+* Questioning and Addressee Knowledge
+* Moore's Paradox and Uncancellable Implicatures
