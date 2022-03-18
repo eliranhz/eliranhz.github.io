@@ -17,14 +17,4 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>
 * Questioning and Addressee Knowledge
 * Moore's Paradox and Uncancellable Implicatures
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-L9KXHSNS85"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-L9KXHSNS85');
-</script>
-
-{% include test.html %}
+{% include analytics.html %}
