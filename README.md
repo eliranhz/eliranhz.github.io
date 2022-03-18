@@ -26,3 +26,5 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>
 
   gtag('config', 'G-L9KXHSNS85');
 </script>
+
+{% include test.html %}
