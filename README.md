@@ -1,6 +1,6 @@
 ## Eliran Haziza
 
-<img align="right" src="assets/webpic2.png" width=275 alt="Photo">
+<img align="right" src="assets/webpic.png" width=275 alt="Photo">
 
 I'm a PhD candidate in philosophy at the University of Toronto. I work in epistemology and philosophy of language. My research focuses on questions and inquiry. I'm also interested in the pragmatics of assertion and implicature.
 
