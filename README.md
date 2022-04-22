@@ -4,7 +4,7 @@
 
 I'm a PhD candidate in philosophy at the University of Toronto. I work in epistemology and philosophy of language. My research focuses on questions and inquiry. I'm also interested in the pragmatics of assertion and implicature.
 
-You can reach me at <eliran.haziza@mail.utoronto.ca>
+You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
 ### Publications
 
