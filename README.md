@@ -14,7 +14,7 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>
 * A paper on curiosity (under review)
 * A paper on the norms of inquiry (under review)
 * A paper on assertion (under review)
-* Questioning and Addressee Knowledge
+* A paper on questions (under review)
 * Moore's Paradox and Uncancellable Implicatures
 
 {% include analytics.html %}
