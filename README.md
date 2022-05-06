@@ -2,7 +2,7 @@
 
 <img align="right" src="assets/webpic.png" width=275 alt="Photo" style="max-width: 40%;">
 
-I'm a PhD candidate in philosophy at the University of Toronto. I work in epistemology and philosophy of language. My research focuses on questions and inquiry. I'm also interested in the pragmatics of assertion and implicature.
+I'm a PhD candidate in philosophy at the University of Toronto. I work mainly in the philosophy of language and epistemology. My current research focuses on inquiry, questions, assertion, and implicature.
 
 You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
