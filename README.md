@@ -10,13 +10,13 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
 * [Assertion, Implicature, and Iterated Knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, forthcoming
 
-### In Progress <span style="font-weight:normal; font-size:16px">(email for drafts)</span>
+### Work in progress <span style="font-weight:normal; font-size:16px">(email for drafts)</span>
 
 
 * A paper on curiosity (under review)
 * A paper on the norms of inquiry (under review)
-* A paper on assertion (under review)
-* A paper on questions (under review)
+* A paper on assertion and the KK thesis (under review)
+* A paper on the epistemic norms of question-asking (under review)
 * Moore's Paradox and Uncancellable Implicatures
 
 {% include analytics.html %}
