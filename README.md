@@ -8,8 +8,8 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
 ### Publications
 
-* [Assertion, Implicature, and Iterated Knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, forthcoming
-* Assertion and the "How do you know" Challenge. _Synthese_, forthcoming
+* [Assertion, implicature, and iterated knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, forthcoming
+* Assertion and the "how do you know" challenge. _Synthese_, forthcoming
 
 ### Work in progress <span style="font-weight:normal; font-size:16px">(email for drafts)</span>
 
@@ -17,6 +17,6 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 * A paper on curiosity (under review)
 * A paper on the norms of inquiry (under review)
 * A paper on the epistemic norms of question-asking (under review)
-* Moore's Paradox and Uncancellable Implicatures
+* A paper on implicature and Moore's paradox (under review)
 
 {% include analytics.html %}
