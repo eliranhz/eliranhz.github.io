@@ -8,8 +8,8 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
 ### Publications
 
+* [Assertion and the "how do you know" challenge](https://philpapers.org/archive/HAZAAT.pdf). _Synthese_, forthcoming
 * [Assertion, implicature, and iterated knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, forthcoming
-* Assertion and the "how do you know" challenge. _Synthese_, forthcoming
 
 ### Work in progress <span style="font-weight:normal; font-size:16px">(email for drafts)</span>
 
