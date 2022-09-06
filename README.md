@@ -8,13 +8,12 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
 ### Publications
 
-* [Assertion and the "how do you know" challenge](https://philpapers.org/archive/HAZAAT.pdf). _Synthese_, forthcoming
+* [Curious to know](https://philpapers.org/archive/HAZCTK.pdf). _Episteme_, forthcoming
 * [Assertion, implicature, and iterated knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, forthcoming
+* [Assertion and the "how do you know" challenge](https://philpapers.org/archive/HAZAAT.pdf). _Synthese_, 2022
 
 ### Work in progress <span style="font-weight:normal; font-size:16px">(email for drafts)</span>
 
-
-* A paper on curiosity (under review)
 * A paper on the norms of inquiry (under review)
 * A paper on the epistemic norms of question-asking (under review)
 * A paper on implicature and Moore's paradox (under review)
