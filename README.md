@@ -17,5 +17,6 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 * A paper on the norms of inquiry (under review)
 * A paper on the epistemic norms of question-asking (under review)
 * A paper on implicature and Moore's paradox (under review)
+* A paper on whether there are any epistemic obligations (under review)
 
 {% include analytics.html %}
