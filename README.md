@@ -8,6 +8,7 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
 ### Publications
 
+* [Questioning and Addressee Knowledge](https://philpapers.org/archive/HAZQAA.pdf). _Synthese_, forthcoming
 * [Reconciling the epistemic and the zetetic](/assets/ez.pdf). _Thought_, forthcoming
 * [Curious to know](https://philpapers.org/archive/HAZCTK.pdf). _Episteme_, forthcoming
 * [Assertion and the "how do you know" challenge](https://philpapers.org/archive/HAZAAT.pdf). _Synthese_, 2022
