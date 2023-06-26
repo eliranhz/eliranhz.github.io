@@ -4,7 +4,7 @@
 
 I'm a PhD candidate in philosophy at the University of Toronto. I work mainly in the philosophy of language and epistemology. My current research focuses on inquiry, questions, assertion, and implicature.
 
-In 2023-2024 I'll be a postdoctoral fellow at the Hebrew University in Jerusalem.
+Starting Fall 2023, I'll be a postdoctoral fellow at the Hebrew University in Jerusalem.
 
 You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
