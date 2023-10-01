@@ -10,6 +10,7 @@ You can reach me at <eliran.haziza@mail.utoronto.ca>.
 
 ### Publications
 
+* [Norms of inquiry](https://philpapers.org/archive/HAZNOI.pdf). _Philosophy Compass_, forthcoming
 * [Curious to know](https://philpapers.org/archive/HAZCTK.pdf). _Episteme_, forthcoming
 * [Questioning and addressee knowledge](https://philpapers.org/archive/HAZQAA.pdf). _Synthese_, 2023
 * [Reconciling the epistemic and the zetetic](https://philpapers.org/archive/HAZRTE.pdf). _Thought_, 2022
