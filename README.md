@@ -4,7 +4,7 @@
 
 I'm a postdoctoral fellow at the Hebrew University of Jerusalem. In 2023, I completed my PhD in philosophy at the University of Toronto. I work mainly in the philosophy of language and epistemology, and my current research focuses on inquiry and questions.
 
-You can reach me at <eliran.haziza@mail.utoronto.ca>.
+You can reach me at <eliran.haziza@mail.huji.ac.il>.
 
 ### Publications
 
