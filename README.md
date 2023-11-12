@@ -2,7 +2,7 @@
 
 <img align="right" src="assets/webpic.png" width=250 alt="Photo" style="max-width: 40%;">
 
-I'm a postdoctoral fellow at the Hebrew University of Jerusalem. In 2023, I completed my PhD in philosophy at the University of Toronto. I work mainly in the philosophy of language and epistemology, and my current research focuses on inquiry and questions.
+I'm a postdoctoral fellow at the Hebrew University of Jerusalem. I completed my PhD in philosophy at the University of Toronto in 2023. I work mainly in the philosophy of language and epistemology, and my current research focuses on inquiry and questions.
 
 You can reach me at <eliran.haziza@mail.huji.ac.il>.
 
