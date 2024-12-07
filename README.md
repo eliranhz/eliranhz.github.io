@@ -8,6 +8,7 @@ You can reach me at <eliran.haziza@mail.huji.ac.il>.
 
 ### Publications
 
+* [How Knowledge Entails Truth](https://philpapers.org/archive/HAZHKE.pdf). _Journal of Philosophy_, forthcoming
 * [Inquiring and Making Sure](https://philpapers.org/archive/HAZIAM.pdf). _Philosophical Topics_, forthcoming
 * [Norms of inquiry](https://philpapers.org/archive/HAZNOI.pdf). _Philosophy Compass_, 2023
 * [Questioning and addressee knowledge](https://philpapers.org/archive/HAZQAA.pdf). _Synthese_, 2023
