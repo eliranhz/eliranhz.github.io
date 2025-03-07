@@ -10,11 +10,11 @@ You can reach me at <eliran.haziza@mail.huji.ac.il>.
 
 * [How Knowledge Entails Truth](https://philpapers.org/archive/HAZHKE.pdf). _Journal of Philosophy_, forthcoming
 * [Inquiring and Making Sure](https://philpapers.org/archive/HAZIAM.pdf). _Philosophical Topics_, forthcoming
-* [Norms of inquiry](https://philpapers.org/archive/HAZNOI.pdf). _Philosophy Compass_, 2023
-* [Questioning and addressee knowledge](https://philpapers.org/archive/HAZQAA.pdf). _Synthese_, 2023
-* [Curious to know](https://philpapers.org/archive/HAZCTK.pdf). _Episteme_, 2022
-* [Reconciling the epistemic and the zetetic](https://philpapers.org/archive/HAZRTE.pdf). _Thought_, 2022
-* [Assertion and the "how do you know" challenge](https://philpapers.org/archive/HAZAAT.pdf). _Synthese_, 2022
-* [Assertion, implicature, and iterated knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, 2022
+* [Norms of Inquiry](https://philpapers.org/archive/HAZNOI.pdf). _Philosophy Compass_, 2023
+* [Questioning and Addressee Knowledge](https://philpapers.org/archive/HAZQAA.pdf). _Synthese_, 2023
+* [Curious to Know](https://philpapers.org/archive/HAZCTK.pdf). _Episteme_, 2022
+* [Reconciling the Epistemic and the Zetetic](https://philpapers.org/archive/HAZRTE.pdf). _Thought_, 2022
+* [Assertion and the “How do you know” Challenge](https://philpapers.org/archive/HAZAAT.pdf). _Synthese_, 2022
+* [Assertion, Implicature, and Iterated Knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, 2022
 
 {% include analytics.html %}
