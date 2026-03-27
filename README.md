@@ -10,7 +10,7 @@ You can reach me at <eliran.haziza@mail.huji.ac.il>.
 
 * [Unknowability and Infelicity](https://www.tandfonline.com/doi/pdf/10.1080/0020174X.2025.2545882). _Inquiry_, forthcoming
 * [How Knowledge Entails Truth](https://philpapers.org/archive/HAZHKE.pdf). _Journal of Philosophy_, forthcoming
-* [Inquiring and Making Sure](https://philpapers.org/archive/HAZIAM.pdf). _Philosophical Topics_, 2023
+* [Inquiring and Making Sure](https://www.jstor.org/stable/pdf/48822835.pdf). _Philosophical Topics_, 2023
 * [Norms of Inquiry](https://philpapers.org/archive/HAZNOI.pdf). _Philosophy Compass_, 2023
 * [Questioning and Addressee Knowledge](https://philpapers.org/archive/HAZQAA.pdf). _Synthese_, 2023
 * [Curious to Know](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/168B6A6F0F514CA06EE3A388044E17D8/S1742360022000351a.pdf/curious-to-know.pdf). _Episteme_, 2022
