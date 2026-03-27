@@ -13,7 +13,7 @@ You can reach me at <eliran.haziza@mail.huji.ac.il>.
 * [Inquiring and Making Sure](https://philpapers.org/archive/HAZIAM.pdf). _Philosophical Topics_, 2023
 * [Norms of Inquiry](https://philpapers.org/archive/HAZNOI.pdf). _Philosophy Compass_, 2023
 * [Questioning and Addressee Knowledge](https://philpapers.org/archive/HAZQAA.pdf). _Synthese_, 2023
-* [Curious to Know](https://philpapers.org/archive/HAZCTK.pdf). _Episteme_, 2022
+* [Curious to Know]([https://www.cambridge.org/core/journals/episteme/article/curious-to-know/168B6A6F0F514CA06EE3A388044E17D8](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/168B6A6F0F514CA06EE3A388044E17D8/S1742360022000351a.pdf/curious-to-know.pdf)). _Episteme_, 2022
 * [Reconciling the Epistemic and the Zetetic](https://philpapers.org/archive/HAZRTE.pdf). _Thought_, 2022
 * [Assertion and the “How do you know” Challenge](https://philpapers.org/archive/HAZAAT.pdf). _Synthese_, 2022
 * [Assertion, Implicature, and Iterated Knowledge](https://philpapers.org/archive/HAZAIA.pdf). _Ergo_, 2022
